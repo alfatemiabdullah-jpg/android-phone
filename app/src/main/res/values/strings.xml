@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الهاتف</string>
+    <string name="welcome_message">مرحبا بك</string>
+    <string name="button_text">اضغط هنا</string>
+</resources>
